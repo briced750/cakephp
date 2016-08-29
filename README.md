@@ -27,7 +27,7 @@ $ composer require cakephp/cakephp:"~3.3"
 ## Running Tests
 
 Assuming you have PHPUnit installed system wide using one of the methods stated
-[here](http://phpunit.de/manual/current/en/installation.html), you can run the
+[here](http://phpunit.de/manual/current/en/installation.html) [casinos](http://cercledujeu.com) , you can run the
 tests for CakePHP by doing the following:
 
 1. Copy `phpunit.xml.dist` to `phpunit.xml`.
